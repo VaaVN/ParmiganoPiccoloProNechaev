@@ -62,6 +62,30 @@ body {
   height: 666.234px;
   flex-shrink: 0;
 }
+.Mounth {
+  color: #2c2929;
+  font-size: 150px;
+  font-weight: 550;
+  line-height: normal;
+  position: absolute;
+  left: 1150px;
+  top: 525px;
+  animation: talk 1s ease-in-out infinite;
+}
+@keyframes talk {
+  0% {
+    top: 525px;
+    transform: scale(1, 1) rotate(0);
+  }
+  50% {
+    top: 505px;
+    transform: scale(1, 0.1) rotate(-20deg);
+  }
+  100% {
+    top: 525px;
+    transform: scale(1, 1) rotate(0);
+  }
+}
 @keyframes rotate {
   0% {
     transform: rotate(0);
@@ -72,6 +96,15 @@ body {
   100% {
     transform: rotate(0);
   }
+}
+.boots {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 1920px;
+  height: 198px;
+  align-items: flex-start;
+  background: #2c2929;
 }
 h1 {
   text-align: right;
