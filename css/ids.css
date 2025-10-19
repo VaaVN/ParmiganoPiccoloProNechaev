@@ -1316,7 +1316,11 @@
   position: absolute;
   left: 130px;
   top: 300px;
-  transform: scale(1, 1);
+}
+#im10 {
+  position: absolute;
+  left: 0px;
+  top: -100px;
 }
 #hid1 {
   text-align: left;
@@ -1422,4 +1426,7 @@
   transform: scale(0.95, 0.95);
   position: relative;
   top: 00px;
+}
+#s-1 {
+  height: 650px;
 }
