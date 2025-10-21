@@ -320,6 +320,7 @@ footer {
   font-weight: 300;
 }
 h1 {
+  z-index: 10;
   color: #2c2929;
   text-align: right;
   font-family: "Parmigiano Piccolo Pro";
@@ -329,6 +330,7 @@ h1 {
   line-height: 1;
 }
 h2 {
+  z-index: 10;
   color: #2c2929;
   font-size: 128px;
   font-weight: 700;
