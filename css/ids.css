@@ -1273,6 +1273,22 @@
   left: 1400px;
   top: 800px;
 }
+#div21 {
+  position: relative;
+  left: 1195px;
+  top: -70px;
+  transform: rotate(-28.535deg);
+}
+#div22 {
+  position: relative;
+  left: 930px;
+  top: 650px;
+}
+#div23 {
+  position: relative;
+  left: 1050px;
+  top: 2380px;
+}
 #im1 {
   position: absolute;
 }
@@ -1429,4 +1445,160 @@
 }
 #s-1 {
   height: 650px;
+}
+#glif1 {
+  position: absolute;
+  top: 320px;
+  left: 270px;
+  transform: rotate(5.302deg);
+}
+#glif2 {
+  position: absolute;
+  top: 370px;
+  left: 680px;
+  transform: rotate(-8.956deg);
+}
+#glif3 {
+  position: absolute;
+  top: 320px;
+  left: 1050px;
+}
+#glif4 {
+  position: absolute;
+  top: 260px;
+  left: 1650px;
+  transform: rotate(-12.483deg);
+}
+#glif5 {
+  position: absolute;
+  top: 760px;
+  left: 240px;
+}
+#glif6 {
+  position: absolute;
+  top: 780px;
+  left: 780px;
+}
+#glif7 {
+  position: absolute;
+  top: 830px;
+  left: 1340px;
+  transform: rotate(26.224deg);
+}
+#ex1 {
+  position: absolute;
+  font-size: 80px;
+  left: 310px;
+  top: 650px;
+}
+#ex2 {
+  position: absolute;
+  left: 340px;
+  top: 630px;
+  font-size: 40px;
+  font-style: italic;
+  font-weight: 500;
+  text-decoration-line: underline;
+  font-feature-settings: "subs" on;
+  text-underline-position: from-font;
+}
+#ex3 {
+  position: absolute;
+  left: 50px;
+}
+#ex4 {
+  position: absolute;
+  left: 70px;
+}
+#ex5 {
+  position: absolute;
+  left: 110px;
+  top: 20 px;
+}
+#ex6 {
+  position: absolute;
+  left: 460px;
+  top: 1350px;
+  font-size: 72px;
+  font-weight: 700;
+}
+#ex7 {
+  position: absolute;
+  left: 200px;
+  top: 1550px;
+  font-size: 72px;
+  font-weight: 700;
+  text-align: center;
+}
+#ex8 {
+  position: absolute;
+  left: 200px;
+  top: 1850px;
+  font-size: 30px;
+  font-style: italic;
+  font-weight: 400;
+  text-align: center;
+}
+#ex9 {
+  position: absolute;
+  left: 510px;
+  top: 1750px;
+  font-size: 30px;
+  font-style: italic;
+  font-weight: 400;
+  text-align: center;
+}
+#ex10 {
+  position: absolute;
+  left: 1190px;
+  top: 1350px;
+  font-size: 73px;
+  font-weight: 500;
+}
+#m0 {
+  display: flex;
+  flex-direction: column;
+  z-index: 5;
+  gap: 30px;
+  position: absolute;
+  top: 1450px;
+  left: 1200px;
+}
+#m1 {
+  display: flex;
+  flex-direction: column;
+  z-index: 5;
+  gap: 10px;
+  width: 430px;
+}
+#m2 {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}
+#m3 {
+  font-size: 33px;
+  font-weight: 400;
+}
+#m4 {
+  color: #6e6c6c;
+  font-size: 20px;
+  font-weight: 400;
+  margin-top: 15px;
+}
+#m5 {
+  font-size: 25px;
+  font-weight: 400;
+  margin-top: 10px;
+  margin-left: auto;
+}
+#m6 {
+  color: #6e6c6c;
+  font-size: 20px;
+  font-weight: 400;
+  margin-left: 10px;
+}
+#m7 {
+  font-size: 56px;
+  font-weight: 400;
 }
