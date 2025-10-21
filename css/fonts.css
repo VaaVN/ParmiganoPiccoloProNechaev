@@ -1,49 +1,73 @@
 @font-face {
   font-family: "ParmigianoPiccoloPro";
   src: url(fonts\ParmigianoPiccoloPro-Bld.ttf);
+  font-weight: 700;
+  font-style: normal;
 }
 @font-face {
   font-family: "ParmigianoPiccoloPro";
   src: url(fonts\ParmigianoPiccoloPro-BldIta.ttff);
+  font-weight: 700;
+  font-style: italic;
 }
 @font-face {
   font-family: "ParmigianoPiccoloPro";
   src: url(fonts\ParmigianoPiccoloPro-Blk.ttf);
+  font-weight: 900;
+  font-style: normal;
 }
 @font-face {
   font-family: "ParmigianoPiccoloPro";
   src: url(fonts\ParmigianoPiccoloPro-BlkIta.ttf);
+  font-weight: 900;
+  font-style: italic;
 }
 @font-face {
   font-family: "ParmigianoPiccoloPro";
   src: url(fonts\ParmigianoPiccoloPro-Lt.ttf);
+  font-weight: 300;
+  font-style: normal;
 }
 @font-face {
   font-family: "ParmigianoPiccoloPro";
   src: url(fonts\ParmigianoPiccoloPro-LtIta.ttf);
+  font-weight: 300;
+  font-style: italic;
 }
 
 @font-face {
   font-family: "ParmigianoPiccoloPro";
   src: url(fonts\ParmigianoPiccoloPro-Med.ttf);
+  font-weight: 500;
+  font-style: normal;
 }
 @font-face {
   font-family: "ParmigianoPiccoloPro";
   src: url(fonts\ParmigianoPiccoloPro-MedIta.ttf);
+  font-weight: 500;
+  font-style: italic;
 }
 @font-face {
   font-family: "ParmigianoPiccoloPro";
   src: url(fonts\ParmigianoPiccoloPro-Reg.ttf);
+  font-weight: 400;
+  font-style: normal;
 }
 @font-face {
   font-family: "ParmigianoPiccoloPro";
   src: url(fonts\ParmigianoPiccoloPro-RegIta.ttf);
+  font-weight: 400;
+  font-style: italic;
 }
 @font-face {
   font-family: "ParmigianoPiccoloPro";
   src: url(fonts\ParmigianoPiccoloPro-Thin.ttf);
+  font-weight: 250;
+  font-style: normal;
 }
 @font-face {
   font-family: "ParmigianoPiccoloPro";
   src: url(fonts\ParmigianoPiccoloPro-ThinIta.ttf);
+  font-weight: 250;
+  font-style: italic;
 }
